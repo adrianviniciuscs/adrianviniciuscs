@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianviniciuscs.adrianviniciuscs&"  />
-</div>
-
 ###
 
 <h1 align="center">Olá, eu sou Adrian</h1>
@@ -13,7 +9,6 @@
 ###
 
 <p align="left">- 📚 Estudante de Tecnologia da Informação na Universidade Federal Rural do Semi-Árido<br><br>- 🔭 Estou sempre explorando diferentes áreas da engenharia de software</p>
-
 ###
 
 <h3 align="left">🛠 Linguagens & Ferramentas</h3>
@@ -40,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  
 </div>
 
 ###
