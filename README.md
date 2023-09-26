@@ -1,19 +1,12 @@
-###
+<h1 align="center">Hey, i'm Adrian! 👋</h1>
 
-<h1 align="center">Olá, eu sou Adrian</h1>
+<h3 align="center">I like to create things that live on computers!</h3>
 
-###
+##### - 📚 Studying Information Technology at Universidade Federal Rural do Semi-Árido
+##### - 🔭 Always exploring new areas in software engineering
+##### - 📖 I love learning anything related to computer science
 
-<h3 align="center">Eu gosto de criar coisas que vivem dentro de computadores!</h3>
-
-###
-
-<p align="left">- 📚 Estudante de Tecnologia da Informação na Universidade Federal Rural do Semi-Árido<br><br>- 🔭 Estou sempre explorando diferentes áreas da engenharia de software</p>
-###
-
-<h3 align="left">🛠 Linguagens & Ferramentas</h3>
-
-###
+## 🛠 Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -35,10 +28,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  
+
 </div>
 
-###
+
+## 🚧 Projects
+
+
+#### [🌱 Plantcare](https://github.com/adrianviniciuscs/plantcare)
+##### The project im currently working on! Im developing a website where people can add the plants they have to their profile and get tips on how to take care of them
+
+#### [🐾 Animaps](www.github.com/adrianviniciuscs/animaps)
+#####  I built a web platform to help people report stray animals to local authorities. The project is on hold currently, but i plan on expanding him in the future.
+
+
+## Contact
 
 <div align="left">
   <a href="adrianvinicius.cs@gmail.com" target="_blank">
@@ -46,4 +50,8 @@
   </a>
 </div>
 
-###
+___
+
+![steamuserimages-a akamaihd](https://github.com/adrianviniciuscs/adrianviniciuscs/assets/93016748/fc50c32d-9ccc-423f-901d-71430d1358fd)
+
+#### _All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost._
