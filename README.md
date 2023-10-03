@@ -35,10 +35,10 @@
 ## 🚧 Projects
 
 
-#### [🌱 Plantcare](https://github.com/adrianviniciuscs/plantcare)
+#### 🌱 Plantcare
 ##### The project im currently working on! Im developing a website where people can add the plants they have to their profile and get tips on how to take care of them
 
-#### [🐾 Animaps](www.github.com/adrianviniciuscs/animaps)
+#### 🐾 Animaps
 #####  I built a web platform to help people report stray animals to local authorities. The project is on hold currently, but i plan on expanding him in the future.
 
 
