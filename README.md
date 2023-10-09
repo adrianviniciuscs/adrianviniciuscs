@@ -2,9 +2,9 @@
 
 <h3 align="center">I like to create things that live on computers!</h3>
 
-##### - 📚 Studying Information Technology at Universidade Federal Rural do Semi-Árido
-##### - 🔭 Always exploring new areas in software engineering
-##### - 📖 I love learning anything related to computer science
+- 📚 Studying Information Technology at Universidade Federal Rural do Semi-Árido
+- 🔭 Always exploring new areas in software engineering
+- 📖 I love learning anything related to computer science
 
 ## 🛠 Languages and Tools
 
@@ -35,11 +35,12 @@
 ## 🚧 Projects
 
 
-#### 🌱 Plantcare
-##### The project im currently working on! Im developing a website where people can add the plants they have to their profile and get tips on how to take care of them
+#### 🌱 [Plantcare](https://github.com/adrianviniciuscs/plantcare)
 
-#### 🐾 Animaps
-#####  I built a web platform to help people report stray animals to local authorities. The project is on hold currently, but i plan on expanding him in the future.
+The project im currently working on! Im developing a website where users can add the plants they have to their profile and get tips on how to take care of them
+
+#### 🐾 [Animaps](https://github.com/adrianviniciuscs/animaps)
+I built a web platform to help people report stray animals to local authorities. The project is on hold currently, but i plan on expanding it in the future.
 
 
 ## 📧 Contact
