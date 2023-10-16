@@ -1,16 +1,17 @@
-<h1 align="center">Hey, i'm Adrian! 👋</h1>
+<h1 align="center">Hello, I'm Adrian! 👋</h1>
 
-<h3 align="center">I like to create things that live on computers!</h3>
+<h3 align="center">I love creating things that live on computers 🖥️!</h3>
 
-- 📚 Studying Information Technology at Universidade Federal Rural do Semi-Árido
-- 🔭 Always exploring new areas in software engineering
-- 📖 I love learning anything related to computer science
+- 📚 Studying Information Technology at Universidade Federal Rural do Semi-Árido.
+- 🔭 Always exploring new horizons in software engineering.
+- 📖 I'm enthusiastic about learning anything related to computer science.
 
 ## 🛠 Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
+  <!-- Add alt text for each logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
@@ -28,19 +29,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-
 </div>
 
 
 ## 🚧 Projects
 
-
 #### 🌱 [Plantcare](https://github.com/adrianviniciuscs/plantcare)
 
-The project im currently working on! Im developing a website where users can add the plants they have to their profile and get tips on how to take care of them
+Currently, I'm working on this project! I'm developing a website where users can add the plants they have to their profile and get tips on how to take care of them.
 
 #### 🐾 [Animaps](https://github.com/adrianviniciuscs/animaps)
-I built a web platform to help people report stray animals to local authorities. The project is on hold currently, but i plan on expanding it in the future.
+
+I built a web platform to help people report stray animals to local authorities. The project is on hold currently, but I plan on expanding it in the future.
 
 
 ## 📧 Contact
@@ -54,4 +54,4 @@ ___
 
 ![steamuserimages-a akamaihd](https://github.com/adrianviniciuscs/adrianviniciuscs/assets/93016748/fc50c32d-9ccc-423f-901d-71430d1358fd)
 
-#### _All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost._
+#### _"All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost."_
