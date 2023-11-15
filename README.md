@@ -36,7 +36,7 @@
 
 #### 🌱 [Plantcare](https://github.com/adrianviniciuscs/plantcare)
 
-Currently, I'm working on this project! I'm developing a website where users can add the plants they have to their profile and get tips on how to take care of them.
+I'm developing a website where users can add the plants they have to their profile and get tips on how to take care of them.
 
 #### 🐾 [Animaps](https://github.com/adrianviniciuscs/animaps)
 
