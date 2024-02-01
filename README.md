@@ -34,13 +34,9 @@
 
 ## 🚧 Projects
 
-#### 🌱 [Plantcare](https://github.com/adrianviniciuscs/plantcare)
-
-I'm developing a website where users can add the plants they have to their profile and get tips on how to take care of them.
-
 #### 🐾 [Animaps](https://github.com/adrianviniciuscs/animaps)
 
-I built a web platform to help people report stray animals to local authorities. The project is on hold currently, but I plan on expanding it in the future.
+A web platform to help people report stray animals to local authorities.
 
 
 ## 📧 Contact
