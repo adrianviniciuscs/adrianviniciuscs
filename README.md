@@ -6,47 +6,57 @@
 - 🔭 Always exploring new horizons in software engineering.
 - 📖 I'm enthusiastic about learning anything related to computer science.
 
+---
+
 ## 🛠 Languages and Tools
+<p>
+  <img src="https://img.shields.io/badge/Go-%23b8bb26.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/C-%23fabd2f.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Rust-%23d65d0e.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Python-%238ec07c.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-%238ec07c.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23fabd2f.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Pandas-%23b8bb26.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Django-%238ec07c.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Git-%23d65d0e.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-%238ec07c.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <!-- Add alt text for each logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
+---
 
 ## 🚧 Projects
 
 #### 🐾 [Animaps](https://github.com/adrianviniciuscs/animaps)
-
 A web platform to help people report stray animals to local authorities.
+
+#### 🌱 [OCR Handwriting Recognition](https://github.com/adrianviniciuscs/ocr-handwriting)
+A machine learning model for recognizing handwritten text using artificial neural networks.
+
+#### 🔒 [Katchau](https://github.com/adrianviniciuscs/katchau)
+A simple HTTP server written in Rust.
+
+#### 🧠 [Neural Networks](https://github.com/adrianviniciuscs/neural-networks)
+Implementation of neural networks in C for various machine learning tasks.
+
+#### 📊 [Strava Data Visualization](https://github.com/adrianviniciuscs/strava-dataviz)
+A Jupyter Notebook project visualizing Strava workout data.
+
+### ⚙️ [Dotfiles](https://github.com/adrianviniciuscs/dotfiles)
+My personal configuration files for a customized Linux environment using Lua.
+
+---
+
 
 
 ## 📧 Contact
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adrianvinicius.cs@gmail.com)
 
+---
+
 ## 📊 Stats
 ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianviniciuscs&show_icons=true&theme=gruvbox)
-___
 
-![steamuserimages-a akamaihd](https://github.com/adrianviniciuscs/adrianviniciuscs/assets/93016748/fc50c32d-9ccc-423f-901d-71430d1358fd)
+---
 
 #### _"All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost."_
