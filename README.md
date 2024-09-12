@@ -44,8 +44,7 @@ A web platform to help people report stray animals to local authorities.
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adrianvinicius.cs@gmail.com)
 
 ## 📊 Stats
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=adrianviniciuscs&show_icons=true)
+![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianviniciuscs&show_icons=true&theme=gruvbox)
 ___
 
 ![steamuserimages-a akamaihd](https://github.com/adrianviniciuscs/adrianviniciuscs/assets/93016748/fc50c32d-9ccc-423f-901d-71430d1358fd)
