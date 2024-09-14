@@ -38,6 +38,9 @@ A simple HTTP server written in Rust.
 #### 🧠 [Neural Networks](https://github.com/adrianviniciuscs/neural-networks)
 Implementation of neural networks in C for various machine learning tasks.
 
+#### 🎮📊 [StockClicker](https://github.com/adrianviniciuscs/StockClicker)
+A fun stock market simulation game where you can trade stocks and bots while managing your portfolio.
+
 #### 📊 [Strava Data Visualization](https://github.com/adrianviniciuscs/strava-dataviz)
 A Jupyter Notebook project visualizing Strava workout data.
 
