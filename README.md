@@ -32,17 +32,11 @@ A web platform to help people report stray animals to local authorities.
 #### 🌱 [OCR Handwriting Recognition](https://github.com/adrianviniciuscs/ocr-handwriting)
 A machine learning model for recognizing handwritten text using artificial neural networks.
 
-#### 🔒 [Katchau](https://github.com/adrianviniciuscs/katchau)
-A simple HTTP server written in Rust.
-
 #### 🧠 [Neural Networks](https://github.com/adrianviniciuscs/neural-networks)
 Implementation of neural networks in C for various machine learning tasks.
 
 #### 🎮📊 [StockClicker](https://github.com/adrianviniciuscs/StockClicker)
 A fun stock market simulation game where you can trade stocks and bots while managing your portfolio.
-
-#### 📊 [Strava Data Visualization](https://github.com/adrianviniciuscs/strava-dataviz)
-A Jupyter Notebook project visualizing Strava workout data.
 
 ### ⚙️ [Dotfiles](https://github.com/adrianviniciuscs/dotfiles)
 My personal configuration files for a customized Linux environment using Lua.
