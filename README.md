@@ -39,7 +39,7 @@ Implementation of neural networks in C for various machine learning tasks.
 A fun stock market simulation game where you can trade stocks and bots while managing your portfolio.
 
 ### ⚙️ [Dotfiles](https://github.com/adrianviniciuscs/dotfiles)
-My personal configuration files for a customized Linux environment using Lua.
+My personal configuration files for a customized Linux environment.
 
 ---
 #### _"All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost."_
