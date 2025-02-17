@@ -23,24 +23,5 @@
 </p>
 
 ---
-
-## 🚧 Projects
-
-#### 🐾 [Animaps](https://github.com/adrianviniciuscs/animaps)
-A web platform to help people report stray animals to local authorities.
-
-#### 🌱 [OCR Handwriting Recognition](https://github.com/adrianviniciuscs/ocr-handwriting)
-A machine learning model for recognizing handwritten text using artificial neural networks.
-
-#### 🧠 [Neural Networks](https://github.com/adrianviniciuscs/neural-networks)
-Implementation of neural networks in C for various machine learning tasks.
-
-#### 🎮📊 [StockClicker](https://github.com/adrianviniciuscs/StockClicker)
-A fun stock market simulation game where you can trade stocks and bots while managing your portfolio.
-
-### ⚙️ [Dotfiles](https://github.com/adrianviniciuscs/dotfiles)
-My personal configuration files for a customized Linux environment.
-
----
 #### _"All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost."_
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adrianvinicius.cs@gmail.com)
